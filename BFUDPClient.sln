@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BFUDPClient", "BFUDPClient\BFUDPClient.csproj", "{DDAA17E7-E891-457C-9527-965C5D678613}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Battlelog", "Battlelog\Battlelog.csproj", "{EC4EBDA0-AD92-45DA-9948-4CD8153C3EC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDAA17E7-E891-457C-9527-965C5D678613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDAA17E7-E891-457C-9527-965C5D678613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDAA17E7-E891-457C-9527-965C5D678613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDAA17E7-E891-457C-9527-965C5D678613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC4EBDA0-AD92-45DA-9948-4CD8153C3EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4EBDA0-AD92-45DA-9948-4CD8153C3EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4EBDA0-AD92-45DA-9948-4CD8153C3EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4EBDA0-AD92-45DA-9948-4CD8153C3EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC579388-8282-4420-9587-353B8289D129}
+	EndGlobalSection
+EndGlobal
